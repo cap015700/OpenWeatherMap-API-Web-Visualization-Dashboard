@@ -19,4 +19,4 @@ Languages and Tools:
 
 https://cap015700.github.io/OpenWeatherMap-API-Web-Visualization-Dashboard/
 
-![WebViz](Images/WebViz.png)
+![WebViz](WebViz.png)
